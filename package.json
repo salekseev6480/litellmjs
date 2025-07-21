@@ -1,0 +1,10 @@
+{
+  "name": "litellmjs",
+  "version": "0.1.0",
+  "description": "JavaScript implementation of LiteLLM.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
